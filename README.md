@@ -1,7 +1,7 @@
 # Hello_World
 wowow a repository
 
-Yellow! 
+Yello! 
 
 I'm Lee, and I'm trying to learn python and basic node.js :) 
 I'm working on a few projects including a gamemaker 2.0 game and discord bot,
